@@ -51,10 +51,6 @@ After comparing different models, the Gradient Boosting Classifier showed the be
 3. Run the Jupyter notebook or Python script
 4. To make predictions on new data, use the saved model 'Model.sav'
 
-## Future Work
 
-- Incorporate more features or external data sources
-- Try other advanced algorithms like XGBoost or LightGBM
-- Develop a web application for easy prediction input and visualization
 
 
