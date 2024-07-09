@@ -1,4 +1,4 @@
-# Telco Customer Churn Prediction
+# Churn Prediction
 
 This project aims to predict customer churn for a telecommunications company using machine learning techniques.
 
